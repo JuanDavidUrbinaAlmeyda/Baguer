@@ -1,4 +1,13 @@
 ---
+title: Baguer Dashboard
+emoji: 👔
+colorFrom: indigo
+colorTo: blue
+sdk: streamlit
+sdk_version: "1.35.0"
+app_file: dashboards/app.py
+pinned: false
+---
 
 ## Estructura del Proyecto
 

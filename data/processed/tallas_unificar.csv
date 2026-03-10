@@ -1,0 +1,16 @@
+sku,marca,categoria,tallas_disponibles
+1002,MarcaC,Camisa,M|S|XXL|XL
+1003,MarcaC,Pantalón,M|XL|XXL
+1007,MarcaB,Camisa,XL|M|S
+1008,MarcaA,Pantalón,S|XL|L|XXL
+1009,MarcaB,Chaqueta,S|XL|L
+1011,MarcaA,Camisa,XXL|XL|S
+1016,MarcaB,Camisa,S|XXL|XL|L
+1026,MarcaB,Chaqueta,M|XXL|S
+1027,MarcaA,Chaqueta,XL|XXL|L
+1029,MarcaC,Pantalón,XXL|S|XL
+1030,MarcaC,Chaqueta,XL|S|M
+1033,MarcaC,Chaqueta,XXL|L|S
+1035,MarcaB,Pantalón,XL|S|M|XXL
+1037,MarcaC,Pantalón,M|XXL|XL
+1038,MarcaC,Camisa,XL|XXL|S|L

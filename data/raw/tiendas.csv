@@ -1,0 +1,16 @@
+tienda_id,nombre_tienda,ciudad,clima,cargue
+1,Tienda_1,Ciudad_4,Frío,Medio
+2,Tienda_2,Ciudad_2,Cálido,Bajo
+3,Tienda_3,Ciudad_5,Frío,Bajo
+4,Tienda_4,Ciudad_2,Cálido,Medio
+5,Tienda_5,Ciudad_7,Templado,Medio
+6,Tienda_6,Ciudad_7,Frío,Alto
+7,Tienda_7,Ciudad_2,Cálido,Alto
+8,Tienda_8,Ciudad_3,Cálido,Bajo
+9,Tienda_9,Ciudad_7,Templado,Bajo
+10,Tienda_10,Ciudad_1,Templado,Medio
+11,Tienda_11,Ciudad_2,Cálido,Bajo
+12,Tienda_12,Ciudad_2,Cálido,Alto
+13,Tienda_13,Ciudad_6,Cálido,Alto
+14,Tienda_14,Ciudad_7,Frío,Medio
+15,Tienda_15,Ciudad_4,Cálido,Alto

@@ -1,0 +1,43 @@
+Productos: 
+0. ID
+1. Tipo: Camisetas, Jeanes, Camisas, Chaquetas, Pantalones
+2. Color
+3. Clima: Calido, Templado, Frio
+4. Marca
+
+Inventario en Bodega:
+0. ID 
+1. Talla: XS, S, M, L, XL, 28, 30, 32, 34, 36, 38
+2. Cantidad en Bodega
+3. ID_producto
+
+Inventario En Tienda:
+0. ID 
+1. Talla: XS, S, M, L, XL, 28, 30, 32, 34, 36, 38
+2. Cantidad en Tienda
+3. ID_producto
+
+Tienda: 
+0. ID
+1. Nombre
+2. Tipo_Clima
+3. Cargue (0 a +)
+4. Estado
+5. Tiempo desde ultima sol
+6. Medida Cargue (ideal %)
+
+Solicitud: 
+0. ID
+1. ID_tienda
+2. ID_productos (se pueden pedir varios)
+3. Cantidad solicitada (de cada producto)
+4. Estado_solicitud
+5. fecha
+
+Ventas:
+0. ID
+1. Valor 
+2. ID_solicitud
+3. fecha 
+
+

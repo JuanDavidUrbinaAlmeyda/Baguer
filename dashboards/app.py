@@ -20,6 +20,9 @@ import streamlit as st
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 PROCESSED_PATH = os.path.join(BASE_DIR, "..", "data", "processed")
 MAIN_PY = os.path.join(BASE_DIR, "..", "main.py")
+SRC_PATH = os.path.join(BASE_DIR, "..", "src")
+if SRC_PATH not in sys.path:
+    sys.path.insert(0, SRC_PATH)
 
 # ─────────────────────────────────────────────────────────────────────────────
 # Configuración de página
